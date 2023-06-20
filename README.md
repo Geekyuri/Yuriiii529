@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuriiii529
 - 🌱 I’m currently learning solidity
-- 📫 How to reach me: @Yiroulala (Twitter)
+- 📫 How to reach me: error.rou@gmail.com
 
 <!---
 Yuriiii529/Yuriiii529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
